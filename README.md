@@ -7,11 +7,16 @@ Are you looking for a sleek and user-friendly calculator app with a design inspi
 
 **Key Features:**
 
-🌈 Elegant Samsung-inspired design
+🌈 Elegant Samsung-inspired design 
+
 ➕✖️➗ Easy-to-use basic and scientific calculations
+
 📐 Intuitive layout for quick calculations
+
 🔄 History log to review previous calculations
+
 📱 Responsive and compatible with various devices
+
 
 Why Choose This App?
 This calculator app is not just about numbers; it's about the user experience. The Samsung-inspired design sets it apart, making it visually appealing and easy to navigate. Whether you're a student, professional, or anyone in need of a reliable calculator, this app has you covered.
@@ -21,7 +26,9 @@ Ready to take your calculator experience to the next level? Contact me for the f
 
 How to Reach Me:
 📧 Email: milan.appdev@gmail.com
-📱 Linkedin: https://www.linkedin.com/in/milan-savaliya-ios-swift-developer/
+
+📱 Linkedin: https://www.linkedin.com/in/milan-savaliya-ios-swift-developer
+
 
 Don't miss out on this opportunity to own a premium calculator app. Get in touch today and elevate your mobile calculator experience!
 
