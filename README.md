@@ -1,6 +1,17 @@
 # Samsung Calculator App
 Samsung Calculator App iOS Swift language
 
+# **Contact me for the Full Source Code:**
+
+Ready to take your calculator experience to the next level? Contact me for the full source code and bring this elegant calculator app to your audience. The source code is well-documented and easily customizable, allowing you to add your own touch or integrate additional features.
+
+How to Reach Me:
+
+📧 Email: milan.appdev@gmail.com
+
+📱 Linkedin: https://www.linkedin.com/in/milan-savaliya-ios-swift-developer
+
+
 **📱 Modern Calculator App**
 
 Are you looking for a sleek and user-friendly calculator app with a design inspired by Samsung? Look no further! I've developed a feature-rich calculator app that combines functionality with a stylish interface.
@@ -20,15 +31,6 @@ Are you looking for a sleek and user-friendly calculator app with a design inspi
 
 Why Choose This App?
 This calculator app is not just about numbers; it's about the user experience. The Samsung-inspired design sets it apart, making it visually appealing and easy to navigate. Whether you're a student, professional, or anyone in need of a reliable calculator, this app has you covered.
-
-Contact me for the Full Source Code:
-Ready to take your calculator experience to the next level? Contact me for the full source code and bring this elegant calculator app to your audience. The source code is well-documented and easily customizable, allowing you to add your own touch or integrate additional features.
-
-How to Reach Me:
-📧 Email: milan.appdev@gmail.com
-
-📱 Linkedin: https://www.linkedin.com/in/milan-savaliya-ios-swift-developer
-
 
 Don't miss out on this opportunity to own a premium calculator app. Get in touch today and elevate your mobile calculator experience!
 
