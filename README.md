@@ -36,11 +36,11 @@ Don't miss out on this opportunity to own a premium calculator app. Get in touch
 
 Feel free to customize this message to better fit your app and contact details. Good luck with your app sale!
 
-<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/2396959e-d3d2-44b9-bd82-fae061f08c6f" alt="1" width="450">___
-<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/6c459a58-3123-41c9-9e73-b6ac01b2a7d6" alt="2" width="450">
-<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/af9f21bc-0932-404b-b5d1-57c37f33d598" alt="3" width="450">___
-<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/53adf0a8-f89a-4036-a86f-7a8f1b3fac3c" alt="4" width="450">
-<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/ea55691a-125e-4578-92f3-4dab4758b4ae" alt="5" width="450">
+<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/2396959e-d3d2-44b9-bd82-fae061f08c6f" alt="1" width="400">___
+<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/6c459a58-3123-41c9-9e73-b6ac01b2a7d6" alt="2" width="400">
+<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/af9f21bc-0932-404b-b5d1-57c37f33d598" alt="3" width="400">___
+<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/53adf0a8-f89a-4036-a86f-7a8f1b3fac3c" alt="4" width="400">
+<img src="https://github.com/MilanSavaliya321/SamsungCalculatorApp/assets/38990640/ea55691a-125e-4578-92f3-4dab4758b4ae" alt="5" width="400">
 
 
 
